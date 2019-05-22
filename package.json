@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.17.0",
     "node-dht-sensor": "^0.3.0"
-  }
+  },
+  "scripts":{
+"start": "node app.js"
+}
 }
